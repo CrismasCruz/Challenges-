@@ -9,40 +9,61 @@ body {
 
 h1 {
 
-  color : #dab19b;
+  color : #292929;
   font-size: 71px;
   text-transform: uppercase;
   font: Helvetica;
   font-family: sans-serif;
-  background-color: #292929;
+  background-color: #dab19b;
   position: fixed;
   top: 0px;
   padding-bottom: 10px;
   margin-top: 0px;
+  width: 1500px;
+  text-align: center;
 
 
 
 }
 
-img {
-  display: block;
-  padding-bottom: 30px;
-  width: 1010px;
+.bread {
+  display: flex;
+  margin: 100px;
+  width: 1000px;
+
 
 }
 
 
 p {
-  display: block;
-  text-align: justify;
   color: white;
   font-family: sans-serif;
   font: Helvetica;
   font-size: 14px;
-  padding-right: 414px;
+  padding: 30px;
+  text-align: justify;
+  margin-right: 30px;
+}
+
+.themap {
+width: 400px;
+height: 400px;
+margin-left: 220px;
+margin-top: 30px;
 
 
 }
+
+.MapText {
+  display: flex;
+  padding-left: : 150px;
+  padding-right: 150px;
+}
+
+
+
+
+
 
 h2 {
   color : #292929;
@@ -84,14 +105,13 @@ ol {
 }
 
 OL li {
-  padding-right: 414px;
   padding-top: 20px;
 }
 
 UL li {
 
   padding-top: 10px;
-  padding-right: 414px;
+
 
 
 }
@@ -100,5 +120,22 @@ h4 {
   font-size: 16px;
   font: Helvetica;
   font-family: sans-serif;
+
+}
+
+
+.TOP {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.recipe {
+display: block;
+padding-left: 200px;
+padding-right: 200px;
+
 
 }
