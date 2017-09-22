@@ -28,7 +28,7 @@ h1 {
 
 .bread {
   display: flex;
-  margin: 100px;
+  margin: 50px;
   width: 1000px;
 
 
@@ -45,11 +45,15 @@ p {
   margin-right: 30px;
 }
 
+.sanfran {
+  font-style: italic;
+}
+
 .themap {
 width: 400px;
 height: 400px;
 margin-left: 220px;
-margin-top: 30px;
+margin-top: 45px;
 
 
 }
@@ -58,6 +62,7 @@ margin-top: 30px;
   display: flex;
   padding-left: : 150px;
   padding-right: 150px;
+  margin-bottom: 100px;
 }
 
 
@@ -71,6 +76,7 @@ h2 {
   text-transform: uppercase;
   font: Helvetica;
   font-family: sans-serif;
+  font-style: italic;
   background-color: #dab19b;
   width: 1000px;
   padding-left: 10px;
