@@ -1,15 +1,10 @@
 body {
   margin-top: 100px;
   background-color: #292929;
-
-
 }
 
-
-
 h1 {
-
-  color : #292929;
+  color: #292929;
   font-size: 71px;
   text-transform: uppercase;
   font: Helvetica;
@@ -21,19 +16,13 @@ h1 {
   margin-top: 0px;
   width: 1500px;
   text-align: center;
-
-
-
 }
 
 .bread {
   display: flex;
   margin: 50px;
   width: 1000px;
-
-
 }
-
 
 p {
   color: white;
@@ -50,12 +39,10 @@ p {
 }
 
 .themap {
-width: 400px;
-height: 400px;
-margin-left: 220px;
-margin-top: 45px;
-
-
+  width: 400px;
+  height: 400px;
+  margin-left: 220px;
+  margin-top: 45px;
 }
 
 .MapText {
@@ -65,13 +52,8 @@ margin-top: 45px;
   margin-bottom: 100px;
 }
 
-
-
-
-
-
 h2 {
-  color : #292929;
+  color: #292929;
   font-size: 35px;
   text-transform: uppercase;
   font: Helvetica;
@@ -80,34 +62,29 @@ h2 {
   background-color: #dab19b;
   width: 1000px;
   padding-left: 10px;
-
 }
 
 h3 {
-  color : #dab19b;
+  color: #dab19b;
   font-size: 20px;
   font: Helvetica;
   font-family: sans-serif;
-
 }
 
 ul {
-  color : white;
+  color: white;
   font-size: 14px;
   font: Helvetica;
   font-family: sans-serif;
-
-
 }
+
 ol {
-  color : white;
+  color: white;
   font-size: 14px;
   font: Helvetica;
   font-family: sans-serif;
   padding-bottom: 100px;
   text-align: justify;
-
-
 }
 
 OL li {
@@ -115,33 +92,24 @@ OL li {
 }
 
 UL li {
-
   padding-top: 10px;
-
-
-
 }
+
 h4 {
-  color : white;
+  color: white;
   font-size: 16px;
   font: Helvetica;
   font-family: sans-serif;
-
 }
 
-
 .TOP {
-
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-
 .recipe {
-display: block;
-padding-left: 200px;
-padding-right: 200px;
-
-
+  display: block;
+  padding-left: 200px;
+  padding-right: 200px;
 }
