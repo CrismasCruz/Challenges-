@@ -118,7 +118,9 @@ ul {
   justify-content: flex-start;
   margin-left: 300px;
 
+
 }
+
 
 .subway_text {
   display: flex;
@@ -133,6 +135,8 @@ ul {
 
 }
 .subway {
+  margin-top: 0;
+  margin-bottom: 0;
   display: block;
   font-size: 200px;
   font-family: sans-serif;
@@ -146,6 +150,8 @@ ul {
   background-color: white;
   color: #92a8d1;
   text-align: center;
+
+  margin-left: 200px;
 
 
 
